@@ -1,0 +1,14 @@
+iFocus-Studio/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── uploads/    (empty folder)
+├── app/
+│   └── src/
+│       └── main/
+│           ├── assets/
+│           │   └── index.html
+│           ├── java/com/ifocusstudio/MainActivity.java
+│           └── res/layout/activity_main.xml
+├── settings.gradle
+├── build.gradle
